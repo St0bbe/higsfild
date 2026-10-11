@@ -1,0 +1,69 @@
+{
+  "tabs": {
+    "image": "Estúdio de Imagens",
+    "layers": "Estúdio de Camadas",
+    "video": "Estúdio de Vídeos",
+    "audio": "Estúdio de Áudio",
+    "clipping": "Cortes com IA",
+    "motion-control": "Controle de Movimento",
+    "vibe-motion": "Animação de Movimento",
+    "lipsync": "Sincronização Labial",
+    "body-swap": "Troca de Corpo",
+    "cinema": "Estúdio de Cinema",
+    "marketing": "Estúdio de Marketing",
+    "workflows": "Fluxos de Trabalho",
+    "agents": "Agentes de IA",
+    "design-agent": "Agente de Design",
+    "apps": "Explorar Aplicativos",
+    "ai-influencer": "Estúdio de Influenciadores IA"
+  },
+  "categories": {
+    "images": "Imagens",
+    "video": "Vídeos",
+    "audio": "Áudio",
+    "agents-automation": "Agentes e Automação"
+  },
+  "shell": {
+    "brand": "Higsfild",
+    "studioFallback": "Estúdio",
+    "expandSidebar": "Expandir barra lateral",
+    "collapseSidebar": "Recolher barra lateral",
+    "toggleNavMenu": "Alternar menu de navegação",
+    "studioNavigation": "Navegação do estúdio",
+    "toolsSuffix": "ferramentas",
+    "settings": "Configurações",
+    "dropHere": "Solte seus arquivos aqui",
+    "dropHereHint": "Imagens, vídeos ou arquivos de áudio",
+    "vadooPromo": "Crie imagens e vídeos com IA e publique nas redes sociais ↗",
+    "dismiss": "Dispensar"
+  },
+  "settingsModal": {
+    "title": "Configurações",
+    "subtitle": "Gerencie suas preferências e autenticação do estúdio de IA.",
+    "activeApiKey": "Chave de API ativa",
+    "changeKey": "Alterar chave",
+    "close": "Fechar"
+  },
+  "notifications": {
+    "generating": "está gerando",
+    "generationComplete": "— Geração concluída",
+    "generationFailed": "— Falha na geração",
+    "resultReady": "Seu resultado está pronto.",
+    "open": "Abrir →",
+    "openResult": "Abrir resultado de {label}",
+    "dismissNotification": "Dispensar notificação",
+    "ariaLabel": "Atividade de geração e notificações"
+  },
+  "apiKeyModal": {
+    "title": "Higsfild",
+    "subtitlePrefix": "Informe sua chave de API da",
+    "subtitleSuffix": "para começar a criar",
+    "close": "Fechar",
+    "label": "Chave de acesso à API",
+    "placeholder": "Cole sua chave aqui...",
+    "missingKeyError": "Informe sua chave de API",
+    "submit": "Começar",
+    "needKey": "Precisa de uma chave?",
+    "getOneFree": "Obter uma chave →"
+  }
+}
