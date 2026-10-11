@@ -36,6 +36,6 @@ export function mergeCopy(base, override) {
 // the active `locale` (or undefined/null when only English exists yet, or
 // when locale === 'en'). Always returns a fully-populated copy object.
 export function resolveCopy(en, localeBundle, locale) {
-  if (!locale || locale === 'en') return en;
+  if (!locale || locale !== 'zh') return en;
   return mergeCopy(en, localeBundle);
 }
