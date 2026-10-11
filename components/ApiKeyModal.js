@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { getCommonCopy } from '@/lib/locales';
 
-export default function ApiKeyModal({ onSave, onClose, overlay = false, title, subtitle, locale = 'en' }) {
+export default function ApiKeyModal({ onSave, onClose, overlay = false, title, subtitle, locale = 'pt-BR' }) {
   const [key, setKey] = useState('');
   const [error, setError] = useState('');
   const copy = getCommonCopy(locale).apiKeyModal;
