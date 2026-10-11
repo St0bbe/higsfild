@@ -297,7 +297,7 @@ const persistNotifications = (notifications) => {
   }
 };
 
-export default function StandaloneShell({ locale = 'en' }) {
+export default function StandaloneShell({ locale = 'pt-BR' }) {
   const params = useParams();
   const router = useRouter();
   const slug = params?.slug || [];
